@@ -202,7 +202,7 @@
 ### 配置支持
 - **官方网站**：https://www.9db.com
 - **服务时间**：工作日 9:00-18:00
-- **下载地址**：[9dbAutoTrader](https://github.com/9dbQuant/9dbAutoTrader)
+- **GitHub**：[https://github.com/9dbQuant/9dbAutoTrader](https://github.com/9dbQuant/9dbAutoTrader)
 
 ### 紧急联系
 如遇配置问题无法解决，请提供：
